@@ -1,0 +1,23 @@
+{
+  "id": "d3ca2844-615b-42b0-915e-0ba36c822f03",
+  "type": "app",
+  "main": "app.6fa28e2f.js",
+  "version": "2",
+  "configuration": true,
+  "props": {
+    "type": "customize",
+    "img": "APP_0001.png",
+    "name": "dsadq",
+    "loadStyle": 0,
+    "lib": [],
+    "css_script": [],
+    "customconf": []
+  },
+  "online-development-mode": {
+    "open": false,
+    "host": "http://localhost",
+    "port": "3000",
+    "entry": "js/app.js"
+  },
+  "templateType": "react"
+}

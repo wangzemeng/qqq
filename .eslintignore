@@ -1,0 +1,9 @@
+build/*
+dist/*
+config/*
+node_modules/*
+pluginTemp/*
+public/*
+scripts/*
+src/utils/*
+.env
